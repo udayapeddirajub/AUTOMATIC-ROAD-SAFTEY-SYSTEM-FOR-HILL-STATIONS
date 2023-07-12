@@ -1,4 +1,4 @@
-# Numberplate_Extraction_opencv_ocr
+# AUTOMATIC ROAD SAFTEY SYSTEM FOR HILL STATIONS
 In this repository, I have designed this algorithm to extract the licence plate number from the vehicle image with the OCR technique, you can customize the code as per your requirements. make sure that you have all the required libraries in the mentioned path. 
 
 In hilly regions, the roadway is one of the most often-used modes of 
